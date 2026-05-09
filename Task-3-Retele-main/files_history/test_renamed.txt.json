@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2026-05-04 11:43:56",
+    "operation": "RENAME (from test.txt)",
+    "user": "student"
+  },
+  {
+    "timestamp": "2026-05-04 11:44:18",
+    "operation": "DOWNLOAD",
+    "user": "student"
+  }
+]
